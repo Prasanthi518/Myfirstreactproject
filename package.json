@@ -1,10 +1,11 @@
 {
   "name": "myfirstproject",
   "version": "1.0.0",
-  "description": "",
+  "description": "react",
   "main": "index.js",
   "scripts": {
-    "start": "parcel index.html"
+    "test":"echo\"error:no test specified\"&& exit 1",
+    "start": "npx parcel index.html"
   },
   "author": "",
   "license": "ISC",
